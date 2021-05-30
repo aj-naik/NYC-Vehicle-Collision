@@ -17,3 +17,4 @@ Data Preprocessing was required as the data is a bit messy with quite a few miss
 
 # Project History
 My Second Streamlit data visualisation and second Streamlit app. Dataset is available on kaggle. Made this dashboard in August 2020 while learning about Data and ML deployment and since then have been using Streamlit as webapps using it are easy to build.
+Learnt about streamlit from Snehan Kekre for anyone interested
